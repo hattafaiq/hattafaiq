@@ -17,7 +17,7 @@
          <a href="https://www.instagram.com/faiqhatta">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.linkedin.com/in/gauravghongde">
+         <a href="https://api.whatsapp.com/send?phone=6288225111268">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.instagram.com/madebygaurav">
@@ -26,7 +26,7 @@
          <a href="mailto:7gaurav.ghongde@gmail.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
-         <a href="api.whatsapp.com/send?phone=6288225111268">
+         <a href="https://api.whatsapp.com/send?phone=6288225111268">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a>
       </h2>
@@ -35,10 +35,13 @@
             <div>
                <b>
                   <h3>My Stats</h3>
-                  <a href="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs">
+                  <a href="https://api.whatsapp.com/send?phone=6288225111268">
                   <img alt="FaiqHatta's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattafaiq&layout=compact"/>
                   </a>
-               </b>
+				  <a href="https://api.whatsapp.com/send?phone=6288225111268">
+				  <img src="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs" width="32" height="32"/>
+                  </a>
+			   </b>
             </div>
             <div>
                <b>
