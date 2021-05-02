@@ -40,7 +40,7 @@
                   </a>
 				  <br>
 				  <a href="https://api.whatsapp.com/send?phone=6288225111268">
-				  <img src="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs" width="32" height="32"/>
+				  <img src="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs"/>
                   </a>
 			   </b>
             </div>
