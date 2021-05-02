@@ -1,10 +1,10 @@
 <html>
    <body>
    <a href="https://api.whatsapp.com/send?phone=6288225111268">
-    <img alt="FaiqHatta's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattafaiq&layout=compact"/>
+    <img align="center" alt="FaiqHatta's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattafaiq&layout=compact"/>
    </a>
 	<a href="https://api.whatsapp.com/send?phone=6288225111268">
-	<img src="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs"/>
     </a>
       <h2 align="center">Bio</h2>
       <p align="center">
