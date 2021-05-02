@@ -38,6 +38,7 @@
                   <a href="https://api.whatsapp.com/send?phone=6288225111268">
                   <img alt="FaiqHatta's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hattafaiq&layout=compact"/>
                   </a>
+				  <br>
 				  <a href="https://api.whatsapp.com/send?phone=6288225111268">
 				  <img src="https://github-readme-stats.vercel.app/api?username=hattafaiq&theme=buefy&show_icons=true&count_private=false&hide=issues,prs" width="32" height="32"/>
                   </a>
