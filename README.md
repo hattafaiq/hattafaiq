@@ -8,14 +8,14 @@
     </a>
       <h2 align="center">Bio</h2>
       <p align="center">
-         I'm a 2019 Electrical Engineering Graduate from Ahmad Dahlan University, currently working as Monitoring, Control & Robotics Developer, at Daichi Tech.<br> <br>
+         I was Graduate from Ahmad Dahlan University Major Electrical Engineering, currently working as Monitoring, Control & Robotics Developer, at Daichi Tech.<br> <br>
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>- C++, Python & PHP</dd>
+         <dd>- I Able Read & Write C/C++, Python & PHP</dd>
          <dt>Frameworks or Technologies :</dt>
-         <dd>- ROS MAVROS, ROS VELODYNE, OPENCV, Jupyter Notebook, INO IDE, Tensorflow, Darwin OP2, & Ardupilot 
+         <dd>- ROS (MAVROS VELODYNE), OPENCV, Qt, Telebot, Tensorflow/yolo, hall(STM) & DarwinOP 
          </dd>
       </dl>
       <h2 align="center">Contact me on</h2>
