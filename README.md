@@ -8,7 +8,7 @@
     </a>
       <h2 align="center">Bio</h2>
       <p align="center">
-         I was Graduate from Ahmad Dahlan University Major Electrical Engineering, with interested with interested on Robotics Automation & Artificial Intelligence System issues, with more then 7 years experience following the competitions, organizations,make some articles related, and develompent project.<br> <br>
+         I was Graduate from Ahmad Dahlan University Major Electrical Engineering, with interested with interested on Robotics Automation & Artificial Intelligence System issues, with more then 7 years experience following the competitions, organizations,make some articles related, and develompent project.i was work in esco bintan, and now i am join in PT Daun Biru Engineering.<br> <br>
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
