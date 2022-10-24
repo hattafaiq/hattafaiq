@@ -15,7 +15,7 @@
          <dt>Languages :</dt>
          <dd>- I Able Read & Write C/C++, Python & PHP</dd>
          <dt>Frameworks or Technologies :</dt>
-         <dd>- ROS (MAVROS VELODYNE), OPENCV, Qt, Telebot, Tensorflow/yolo, hall(STM) & DarwinOP 
+         <dd>-
          </dd>
       </dl>
       <h2 align="center">Contact me on</h2>
