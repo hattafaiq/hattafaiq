@@ -25,13 +25,6 @@
          </a>
          <a href="https://api.whatsapp.com/send?phone=6288225111268">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.instagram.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
-         </a>
-         <a href="mailto:7gaurav.ghongde@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-         </a>
          <a href="https://api.whatsapp.com/send?phone=6288225111268">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a>
