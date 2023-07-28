@@ -13,8 +13,8 @@
       <h2 align="center">Skills</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>- I Able Read & Write C/C++, Python & PHP</dd>
-         <dt>Frameworks or Technologies :</dt>
+         <dd>- I Able Read & Write C/C++, Python, query, (nodejs on going), (C# on going)</dd>
+         <dt>Frameworks or Technologies : QT (websocket), QWT, Grpc, Zlib, Mupdf</dt>
          <dd>-
          </dd>
       </dl>
